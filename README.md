@@ -1,4 +1,4 @@
-# OCR-onPDF-MedicalData
+# OCR System Project Process and POCs
 A “hybrid” service model, in which some client-sent records are processed and coded via automated IP of OCR / NLP / Coding Rules and, for those records that are deemed too hard for the system to process.
 
 ## High-Level Bussiness Diagram
