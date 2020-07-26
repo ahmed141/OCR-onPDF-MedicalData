@@ -3,12 +3,12 @@ A “hybrid” service model, in which some client-sent records are processed an
 
 ## High-Level Bussiness Diagram
 <p align="center">
-    <img src="./media/business-flow.png">
+    <img src="./media/business-flow.PNG">
 </p>
 
 ## System Front-end Sneak-peak
 <p align="center">
-    <img src="./media/front-end.png">
+    <img src="./media/front-end.PNG">
 </p>
 
 ## Tehnology Stack of overall Solution
