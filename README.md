@@ -1,5 +1,6 @@
 # OCR-onPDF-MedicalData
 
+## Tehnology Stack of overall Solution
 ### AWS tech stack:
 ```
 - S3 (defined by customer)
